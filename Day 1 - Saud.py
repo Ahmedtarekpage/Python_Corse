@@ -73,4 +73,4 @@ x = int(x)
 print(type(x))
 my_inp = int(input("Write a num X 5 : "))
 print(my_inp * 5)
-
+print("END")
